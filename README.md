@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola 👋! Soy Alicia Alonso
 
-<!--
-**alici69b/alici69b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Futura Desarrolladora de Aplicaciones Web (DAW)
 
-Here are some ideas to get you started:
+🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
+💻 Enfocada en el desarrollo web moderno, el código limpio y los **diseños responsive**  
+📚 En constante aprendizaje a través de la práctica y proyectos reales  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías que uso
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+
+✔️ Diseño responsive  
+✔️ Mobile-first  
+✔️ Interfaces limpias y organizadas  
+
+---
+
+### ⚙️ Backend y Bases de Datos
+![PHP](https://img.shields.io/badge/PHP-777BB)
+
